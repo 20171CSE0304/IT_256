@@ -1,3 +1,3 @@
-# Maven project
-welcome 6cse5
-hii
+# maven-project
+
+Simple Maven Project
